@@ -1,0 +1,13 @@
+{
+  "name": "teamsync-backend",
+  "version": "1.0.0",
+  "description": "TeamSync Backend API Server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
